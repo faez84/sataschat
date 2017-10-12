@@ -1,5 +1,5 @@
 {
-    "name" : "Faez84/Statsbundle",
+    "name" : "faez84/statsbundle",
     "description" : "A statistics bundle",
     "type" : "symfony-bundle",
     "authors" : [{
