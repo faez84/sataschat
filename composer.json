@@ -1,0 +1,30 @@
+{
+    "name" : "Faez84/Statsbundle",
+    "description" : "A statistics bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "faez",
+        "email" : "faez@gmail.com"
+    }],
+    "keywords" : [
+        "statistics bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "faez84\\StatsBundle" : ""
+        }
+    },
+    "target-dir" : "faez84/StatsBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "1.0-dev"
+        }
+    }
+}
